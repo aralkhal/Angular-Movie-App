@@ -1,0 +1,20 @@
+
+IMax Movie App Database:
+
+Movie{
+	Id:
+	Name:
+	Image:
+	Rating:
+}
+
+User{
+	Id:
+	FirstName:
+	LastName:
+	ListOfMovies:
+	UserName:
+	Password:
+
+	
+}
